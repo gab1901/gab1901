@@ -1,16 +1,24 @@
-## Hi there 👋
+<h1 align="left">Olá</h1>
 
-<!--
-**gab1901/gab1901** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<p align="left">Meu nome é Gabriel</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<p align="left">🎓 Estudante de Análise e Desenvolvimento de Sistemas<br>💻 Iniciando minha jornada no mundo da tecnologia<br>🚀 Em busca de aprendizado constante e desenvolvimento de projetos práticos</p>
+
+###
+
+<div align="left">
+</div>
+
+###
+
+<h3 align="left">Onde me encontrar:</h3>
+
+###
+
+<p align="left">[LinkedIn]<br>https://www.linkedin.com/in/gabriel-pietro-a923151a4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app<br><br>[E-mail]<br>gabrielpietro1901@gmail.com<br>gabriel.pietro@cs.cruzeirodosul.edu.br</p>
+
+###
